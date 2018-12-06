@@ -1,2 +1,1 @@
-# createHerokuApp
-Files needed to create a Heroku app.
+CS 313 PHP Base Code
